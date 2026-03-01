@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello, my name is Jose. I am a 20-year-old Systems Engineering student from Peru, currently working as a web developer. I am deeply committed to continuous learning and professional growth within the field of information technology. Since discovering my passion for programming, I have dedicated myself to strengthening my technical skills and exploring emerging technologies, both through independent study and hands-on professional experience.<br>My main objective is to further develop my professional capabilities and to contribute innovative solutions to complex projects. I consider myself proactive, detail-oriented, and highly motivated to remain at the forefront of technological advancements. I value collaborative work environments and believe that sharing knowledge and working as a team leads to exceptional results.
+Hola, mi nombre es José. Soy un estudiante de Ingeniería de Sistemas de 20 años de Perú y actualmente trabajo como desarrollador web. Estoy profundamente comprometido con el aprendizaje continuo y el crecimiento profesional dentro del campo de la tecnología de la información. Desde que descubrí mi pasión por la programación, me he dedicado a fortalecer mis habilidades técnicas y a explorar tecnologías emergentes, tanto a través del estudio independiente como de la experiencia profesional práctica.
+
+Mi objetivo principal es seguir desarrollando mis capacidades profesionales y aportar soluciones innovadoras a proyectos complejos. Me considero una persona proactiva, orientada al detalle y muy motivada por mantenerme a la vanguardia de los avances tecnológicos. Valoro los entornos de trabajo colaborativos y creo firmemente que compartir conocimientos y trabajar en equipo conduce a resultados excepcionales.
 
 
 ## 🌐 Socials:
